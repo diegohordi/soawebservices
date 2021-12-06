@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body>
+        <ConsultaCEPEstendidaResponse xmlns="SOAWebServices">
+            <ConsultaCEPEstendidaResult>
+                <CEP>99999999</CEP>
+                <TipoLogradouro>RUA</TipoLogradouro>
+                <Logradouro>LOGRADOURO DE TESTES</Logradouro>
+                <LogradouroCompleto>RUA LOGRADOURO DE TESTES</LogradouroCompleto>
+                <LogradouroComplemento>LOGRADOURO COMPLEMENTO TESTES</LogradouroComplemento>
+                <Bairro>BAIRRO DE TESTES</Bairro>
+                <BairroComplemento>BAIRRO COMPLEMENTO TESTES</BairroComplemento>
+                <UF>XX</UF>
+                <Estado>ESTADO DE TESTES</Estado>
+                <Cidade>CIDADE DE TESTES</Cidade>
+                <CodigoIBGE>99999</CodigoIBGE>
+                <Mensagem>Transacao realizada com sucesso!</Mensagem>
+                <Status>true</Status>
+                <Transacao>
+                    <Status>true</Status>
+                    <CodigoStatus>G000M001</CodigoStatus>
+                    <CodigoStatusDescricao>Transacao realizada com sucesso</CodigoStatusDescricao>
+                </Transacao>
+            </ConsultaCEPEstendidaResult>
+        </ConsultaCEPEstendidaResponse>
+    </soap:Body>
+</soap:Envelope>

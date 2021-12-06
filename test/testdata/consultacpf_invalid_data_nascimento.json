@@ -1,0 +1,10 @@
+{
+  "Documento": "99999999999",
+  "Mensagem": "Data de Nascimento invalida!",
+  "Status": false,
+  "Transacao": {
+    "Status": false,
+    "CodigoStatus": "P009M002",
+    "CodigoStatusDescricao": "Data de nascimento é invalida"
+  }
+}

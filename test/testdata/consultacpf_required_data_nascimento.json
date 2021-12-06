@@ -1,0 +1,10 @@
+{
+  "Documento": "99999999999",
+  "Mensagem": "Data de Nascimento obrigatoria!",
+  "Status": false,
+  "Transacao": {
+    "Status": false,
+    "CodigoStatus": "P009M001",
+    "CodigoStatusDescricao": "Data de nascimento é obrigtoria"
+  }
+}

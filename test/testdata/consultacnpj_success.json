@@ -1,0 +1,63 @@
+{
+  "Documento": "99999999999962",
+  "RazaoSocial": "DOCUMENTO CNPJ DE TESTES",
+  "NomeFantasia": "EMPRESA DE TESTES",
+  "DataFundacao": "02/05/2007",
+  "MatrizFilial": "MATRIZ",
+  "Capital": "10.000,00",
+  "CodigoAtividadeEconomica": "82.91-1-00",
+  "CodigoAtividadeEconomicaDescricao": "Atividades de cobranças e informações cadastrais",
+  "CodigoNaturezaJuridica": "206-2",
+  "CodigoNaturezaJuridicaDescricao": "SOCIEDADE EMPRESARIA LIMITADA",
+  "SituacaoRFB": "ATIVA",
+  "DataSituacaoRFB": "06/12/2021",
+  "DataConsultaRFB": "06/12/2021 18:55:19",
+  "MotivoSituacaoRFB": "",
+  "DataMotivoEspecialSituacaoRFB": "06/12/2021",
+  "CNAES": [],
+  "Enderecos": [
+    {
+      "Tipo": 2,
+      "Logradouro": "RUA DE TESTES",
+      "Numero": "99999",
+      "Complemento": "APTO 99",
+      "Bairro": "BAIRRO DE TESTES",
+      "Cidade": "CIDADE DE TESTES",
+      "Estado": "XX",
+      "CEP": "99999999",
+      "GeoLocalizacao": {
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "PlusCodes": ""
+      },
+      "DataAtualizacao": "2021-12-06T18:55:19.7417597-03:00",
+      "CodigoIBGE": 99999
+    }
+  ],
+  "Email": "email@email.com",
+  "Telefone": "1199999999",
+  "QSA": {
+    "Socios": [
+      {
+        "Pessoa": 1,
+        "Documento": "99999999999",
+        "Nome": "NOME DO SOCIO"
+      }
+    ],
+    "Administradores": [
+      {
+        "Pessoa": 1,
+        "Documento": "99999999999",
+        "Nome": "NOME DO PRESIDENTE",
+        "Cargo": "PRESIDENTE"
+      }
+    ]
+  },
+  "Mensagem": "Transacao realizada com sucesso!",
+  "Status": true,
+  "Transacao": {
+    "Status": true,
+    "CodigoStatus": "G000M001",
+    "CodigoStatusDescricao": "Transacao realizada com sucesso"
+  }
+}

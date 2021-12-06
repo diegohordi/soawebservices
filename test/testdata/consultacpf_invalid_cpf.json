@@ -1,0 +1,10 @@
+{
+  "Documento": "99999999",
+  "Mensagem": "Documento invalido!",
+  "Status": false,
+  "Transacao": {
+    "Status": false,
+    "CodigoStatus": "G000M003",
+    "CodigoStatusDescricao": "Documento invalido para consulta"
+  }
+}

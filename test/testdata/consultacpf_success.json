@@ -1,0 +1,11 @@
+{
+  "Documento": "99999999999",
+  "Nome": "DOCUMENTO CPF DE TESTE",
+  "Mensagem": "Transacao realizada com sucesso!",
+  "Status": true,
+  "Transacao": {
+    "Status": true,
+    "CodigoStatus": "G000M001",
+    "CodigoStatusDescricao": "Transacao realizada com sucesso"
+  }
+}
